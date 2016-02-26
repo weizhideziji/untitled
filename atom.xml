@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Untitled</title>
+  
+  <link href="/untitled/atom.xml" rel="self"/>
+  
+  <link href="http://weizhideziji.github.io/untitled/"/>
+  <updated>2016-02-26T17:19:00.000Z</updated>
+  <id>http://weizhideziji.github.io/untitled/</id>
+  
+  <author>
+    <name>未知的自己</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>决定业余做款沙盒游戏</title>
+    <link href="http://weizhideziji.github.io/untitled/2016/02/27/firstpost/"/>
+    <id>http://weizhideziji.github.io/untitled/2016/02/27/firstpost/</id>
+    <published>2016-02-26T16:12:49.000Z</published>
+    <updated>2016-02-26T17:19:00.000Z</updated>
+    
+    <content type="html">&lt;img src=&quot;/untitled/2016/02/27/firstpost/creation.jpg&quot; alt=&quot;creation&quot; title=&quot;creation&quot;&gt;
+&lt;p&gt;说来惭愧，从第一份800块钱的工作算起，已经在程序猿的岗位上干了14年了，至今仍然平平庸庸碌碌无为。虽然前段时间换了一个团队，尝试去做一个之前从没做过的职位PM，但还是一直没弄清楚自己后面的路要怎么走。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;今天经一位高人点播，茅塞顿开，一下子又觉得人生光明起来了。生活也有了新的目标：用业余时间做一个自己的游戏出来。&lt;/p&gt;
+&lt;p&gt;目前主要有以下这些零碎的想法，暂时记录一下。具体的设计思路得再等一个月，等我对几个重点的沙盒游戏有更深入了解后再进行详细的说明。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;类型为沙盒游戏。&lt;/li&gt;
+&lt;li&gt;游戏分为基本世界和人为世界。基本世界类似上帝七天创造世界后的那个状态，人为世界是人类对基本世界改造后的结果。&lt;/li&gt;
+&lt;li&gt;基本世界要有简单明确的运作机制，并且这些运作机制可以被人类利用后创造出足够的生存乐趣。&lt;/li&gt;
+&lt;li&gt;表现形式为2D横版。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/untitled/2016/02/27/firstpost/creation.jpg&quot; alt=&quot;creation&quot; title=&quot;creation&quot;&gt;
+&lt;p&gt;说来惭愧，从第一份800块钱的工作算起，已经在程序猿的岗位上干了14年了，至今仍然平平庸庸碌碌无为。虽然前段时间换了一个团队，尝试去做一个之前从没做过的职位PM，但还是一直没弄清楚自己后面的路要怎么走。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="杂项" scheme="http://weizhideziji.github.io/untitled/categories/%E6%9D%82%E9%A1%B9/"/>
+    
+    
+      <category term="个人" scheme="http://weizhideziji.github.io/untitled/tags/%E4%B8%AA%E4%BA%BA/"/>
+    
+  </entry>
+  
+</feed>
